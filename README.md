@@ -64,10 +64,12 @@ AI Gesture Control Robot Workshop – JNTUH
 FUTURA 2024 – RDIO
 
 Mentoring and Learning
+---
 
 Passionate about continuous learning and applying concepts practically. Focused on strengthening fundamentals in programming and software development.
 
 Interpersonal Skills
+----
 
 Quick learner
 
