@@ -7,11 +7,11 @@ Pranavi Gandham
 
 🔗 LinkedIn
 
-Objective
+#Objective
 
 Highly motivated Computer Science student with strong programming and problem-solving skills, eager to contribute to innovative projects and grow professionally in a full-time role.
 
-Educational Qualification
+#Educational Qualification
 
 B.Tech in Computer Science and Engineering (2022–2026)
 Priyadarshini Institute of Science & Technology for Women, Khammam
@@ -25,7 +25,7 @@ SSC (2020)
 Govt High School, Khammam
 Aggregate: 100%
 
-Technical Skills
+#Technical Skills
 
 Programming Languages: Python, Java
 
@@ -33,7 +33,7 @@ Frontend: HTML, CSS
 
 Database: SQL
 
-Academic Projects
+#Academic Projects
 Laboratory Management System
 
 The main purpose of this project is to streamline laboratory operations by automating tasks, managing samples, and tracking experiments.
@@ -60,7 +60,7 @@ Able to work under deadline constraints
 
 Team player
 
-Certifications
+#Certifications
 
 Java Programming – Simplilearn
 
@@ -68,7 +68,7 @@ Workshop on AI Gesture Control Robot – JNTUH
 
 Certificate of Participation – FUTURA 2024 (RDIO)
 
-Personal Details
+#Personal Details
 
 Father’s Name: Ravi Madhu Prasad
 
@@ -80,11 +80,4 @@ Permanent Address:
 Indhiranagar, Road No. 5
 Khammam, Telangana – 507002
 
-Declaration
 
-I hereby declare that all the information given above is true and correct to the best of my knowledge.
-
-Date:
-Place:
-
-(G. Pranavi)
