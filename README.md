@@ -1,83 +1,82 @@
 # pranavi
 This repository is for my public profile
+
 Pranavi Gandham
 
-📞 +91 8008504516
+Computer Science Engineering Student | Aspiring Software Developer | Problem Solver 
+
 📧 gandhampranavi@gmail.com
 
+📱 +91 8008504516
 🔗 LinkedIn
 
-#Objective
+About
 
-Highly motivated Computer Science student with strong programming and problem-solving skills, eager to contribute to innovative projects and grow professionally in a full-time role.
+Highly motivated Computer Science student with strong programming and problem-solving skills. Interested in building efficient systems and contributing to innovative projects while continuously learning and growing professionally.
 
-#Educational Qualification
+Technical Skills
 
-B.Tech in Computer Science and Engineering (2022–2026)
-Priyadarshini Institute of Science & Technology for Women, Khammam
-CGPA: 8.1
-
-Intermediate (2020–2022)
-TSRJC College, Burgampahad
-Aggregate: 96%
-
-SSC (2020)
-Govt High School, Khammam
-Aggregate: 100%
-
-#Technical Skills
-
-Programming Languages: Python, Java
+Languages: Python, Java
 
 Frontend: HTML, CSS
 
 Database: SQL
 
-#Academic Projects
+Core Skills: Problem Solving, Logical Thinking, Debugging
+
+Projects
 Laboratory Management System
 
-The main purpose of this project is to streamline laboratory operations by automating tasks, managing samples, and tracking experiments.
+A system designed to streamline laboratory operations by automating routine tasks and managing experiment workflows.
 
-Reduces manual errors
+Automated sample and experiment tracking
 
-Increases productivity
+Reduced manual errors
 
-Ensures accurate test results and reporting
+Improved productivity and efficiency
 
-Improves overall laboratory efficiency
+Ensured accurate reporting and better decision-making
 
-Supports better decision-making
+Education
 
-Interpersonal Skills
+B.Tech in Computer Science and Engineering
+Priyadarshini Institute of Science & Technology for Women, Khammam
+2022 – 2026 | CGPA: 8.1
 
-Determined to learn with a practical approach
+Intermediate
+TSRJC College, Burgampahad
+2020 – 2022 | 96%
 
-Quick learner
+SSC
+Govt High School, Khammam
+2020 | 100%
 
-Good communication skills
-
-Able to work under deadline constraints
-
-Team player
-
-#Certifications
+Certifications
 
 Java Programming – Simplilearn
 
-Workshop on AI Gesture Control Robot – JNTUH
+AI Gesture Control Robot Workshop – JNTUH
 
-Certificate of Participation – FUTURA 2024 (RDIO)
+FUTURA 2024 – RDIO
 
-#Personal Details
+Mentoring and Learning
 
-Father’s Name: Ravi Madhu Prasad
+Passionate about continuous learning and applying concepts practically. Focused on strengthening fundamentals in programming and software development.
 
-Gender: Female
+Interpersonal Skills
 
-Languages Known: Telugu, English, Hindi
+Quick learner
 
-Permanent Address:
-Indhiranagar, Road No. 5
-Khammam, Telangana – 507002
+Strong communication skills
 
+Team player
 
+Works effectively under deadlines
+
+Practical and determined approach to learning
+
+Get in Touch
+
+LinkedIn: Pranavi Gandham
+
+Email: gandhampranavi@gmail.com
