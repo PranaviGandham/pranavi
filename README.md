@@ -11,11 +11,12 @@ Computer Science Engineering Student | Aspiring Software Developer | Problem Sol
 🔗 LinkedIn
 
 About
+---
 
 Highly motivated Computer Science student with strong programming and problem-solving skills. Interested in building efficient systems and contributing to innovative projects while continuously learning and growing professionally.
 
 Technical Skills
-
+---
 Languages: Python, Java
 
 Frontend: HTML, CSS
@@ -25,6 +26,7 @@ Database: SQL
 Core Skills: Problem Solving, Logical Thinking, Debugging
 
 Projects
+---
 Laboratory Management System
 
 A system designed to streamline laboratory operations by automating routine tasks and managing experiment workflows.
@@ -38,6 +40,7 @@ Improved productivity and efficiency
 Ensured accurate reporting and better decision-making
 
 Education
+---
 
 B.Tech in Computer Science and Engineering
 Priyadarshini Institute of Science & Technology for Women, Khammam
@@ -52,6 +55,7 @@ Govt High School, Khammam
 2020 | 100%
 
 Certifications
+----
 
 Java Programming – Simplilearn
 
@@ -76,6 +80,7 @@ Works effectively under deadlines
 Practical and determined approach to learning
 
 Get in Touch
+---
 
 LinkedIn: Pranavi Gandham
 
